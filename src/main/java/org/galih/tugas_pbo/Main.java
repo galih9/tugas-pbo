@@ -8,3 +8,8 @@ public class Main {
 
     }
 }
+
+class User {
+    User(String nim, String name, String programStudi) {
+    }
+}
